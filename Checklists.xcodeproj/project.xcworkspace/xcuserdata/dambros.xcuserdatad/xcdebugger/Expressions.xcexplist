@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "ChecklistViewController.configureCheckmark(for : UITableViewCell, with : ChecklistItem) -&gt; ():ChecklistViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "cell.viewWithTag(1001)">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ItemDetailViewController.tableView(UITableView, willSelectRowAt : IndexPath) -&gt; IndexPath?:ItemDetailViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "indexPath.row">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
